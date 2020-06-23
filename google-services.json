@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "941041135877",
+    "firebase_url": "https://hackathon-push-cef98.firebaseio.com",
+    "project_id": "hackathon-push-cef98",
+    "storage_bucket": "hackathon-push-cef98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941041135877:android:1a4bc5ec5dc0f9c3",
+        "android_client_info": {
+          "package_name": "com.globo.repel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941041135877-5dhdogov9gtedvio6nt5l3en1cqjhvps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOIzg6HMrLjMOHNG87tyZMxDGaSd99hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

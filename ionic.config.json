@@ -1,0 +1,7 @@
+{
+  "name": "dengue-alerts-v3",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
